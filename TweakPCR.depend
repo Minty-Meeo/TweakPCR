@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1578993282 source:c:\users\bradley\documents\github\tweakpcr\src\utility.cpp
+	"ansi_include.h"
+
+1572233908 c:\users\bradley\documents\github\tweakpcr\src\ansi_include.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<cstring>
+	<limits>
+	<stdint.h>
+
+1578993183 source:c:\users\bradley\documents\github\tweakpcr\src\main.cpp
+	"ANSI_include.h"
+	"utility.h"
+	"debug.h"
+	"define.h"
+
+1578043944 c:\users\bradley\documents\github\tweakpcr\src\utility.h
+	"ANSI_include.h"
+
+1578991842 c:\users\bradley\documents\github\tweakpcr\src\define.h
+	"ansi_include.h"
+
+1578992693 source:c:\users\bradley\documents\github\tweakpcr\src\debug.cpp
+	"debug.h"
+
+1578896035 c:\users\bradley\documents\github\tweakpcr\src\debug.h
+	"ansi_include.h"
+	"define.h"
+

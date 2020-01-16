@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="src\utility.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2473" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="src\define.h" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2655" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="src\utility.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="793" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\debug.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1871" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="src\debug.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="163" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3233" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="80" />
+			<Collapse line="95" />
+			<Collapse line="134" />
+			<Collapse line="152" />
+			<Collapse line="165" />
+			<Collapse line="175" />
+			<Collapse line="185" />
+			<Collapse line="197" />
+			<Collapse line="204" />
+			<Collapse line="215" />
+		</Folding>
+	</File>
+	<Target name="Release" top="src\define.h">
+		<File name="src\main.cpp" />
+		<File name="src\debug.cpp" />
+		<File name="src\define.h" />
+		<File name="src\utility.cpp" />
+	</Target>
+</CodeBlocks_layout_file>
